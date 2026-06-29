@@ -24,4 +24,4 @@ The user extensively browsed government websites, visiting 414 unique sites incl
 
 ![Screenshot](./Screenshot%202026-06-29%20141928.png)
 
-
+**Images and Metadata:** 
