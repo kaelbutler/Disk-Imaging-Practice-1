@@ -23,8 +23,8 @@ Using Autopsy 4.22.1 I examined the provided casper-rw images. This report recor
 
 ## Accounts & system artifacts
 - Accounts discovered on the image: Avahi (UID: 110) and Ubuntu (UID: 0).
-- Notable system artifacts to preserve if present:
-  - Browser profiles and history (if present in the image)
+- Notable system artifacts to preserve
+  - Browser profiles and history
   - `/var/log/` (system logs)
   - Relevant caches or temporary directories
 
