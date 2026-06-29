@@ -2,6 +2,8 @@
 
 ## Overview
 
+Using Autopsy 4.22.1, I was able to analyze the metadata and search history from the available images. The resulting data is direct results of my findings. 
+
 **Images:**
 - ubnist.casper-rw.gen0.EO1
 - ubnist.casper-rw.gen1.EO1
@@ -21,3 +23,5 @@ The user extensively browsed government websites, visiting 414 unique sites incl
 **Search History:** 8 Google searches (see screenshot below)
 
 ![Screenshot](./Screenshot%202026-06-29%20141928.png)
+
+
