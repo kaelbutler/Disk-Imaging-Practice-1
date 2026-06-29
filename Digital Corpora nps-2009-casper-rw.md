@@ -1,5 +1,6 @@
 Image : ubnist.casper-rw.gen0.EO1,  ubnist.casper-rw.gen1.EO1,  ubnist.casper-rw.gen2.EO1,  ubnist.casper-rw.gen3.EO1
 Operating System : Ubuntu 8.10 _Intrepid Ibex_ - i386 architecture
+
 Accounts : Avahi - UID: 110, Ubuntu - UID = 0
 
 User Activity: 
