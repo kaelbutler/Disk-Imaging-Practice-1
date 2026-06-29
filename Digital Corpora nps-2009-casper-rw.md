@@ -26,5 +26,5 @@ The user extensively browsed government websites, visiting 414 unique sites incl
 
 **Images and Metadata:** There are over 60 pictures and their respective devices are listed, all pictures were either taken on a Nikon or Canon camera, as seen below. 
 
-
+![Screenshot 142333](./Screenshot%202026-06-29%20142333.png)
 
