@@ -1,7 +1,7 @@
 # Digital Corpora — nps-2009-casper-rw
 
 ## Executive summary
-Using Autopsy 4.22.1 I examined the provided casper-rw images. This report records observations, artifacts found, and recommendations for preservation and further analysis. It avoids asserting exports or processing steps that were not performed.
+Using Autopsy 4.22.1 I examined the provided casper-rw images. This report records observations, artifacts found, and recommendations for preservation and further analysis. It avoids asserting expo[...]
 
 ## Images (evidence files)
 | Image filename | MD5 checksum |
@@ -33,11 +33,11 @@ Using Autopsy 4.22.1 I examined the provided casper-rw images. This report recor
 - User had 281 web bookmarks, 27 web cookies, 59 web downloads, 414 sites browsed, and 8 searches. 
 
 ## Images & EXIF summary
-- Photos were identified during analysis. An EXIF CSV export was not produced as part of this report. If desired, an EXIF export can be generated with the following fields: filename, DateTimeOriginal, Make, Model, GPS (if present), file path, hash.
+- Photos were identified during analysis. An EXIF CSV export was not produced as part of this report. If desired, an EXIF export can be generated with the following fields: filename, DateTimeOrigi[...]
 
 ## Evidence (screenshots)
-- Search history evidence: ![Search History](./Screenshot-2026-06-29-141928.png)
-- Image metadata evidence: ![Image Metadata](./Screenshot-2026-06-29-142333.png)
+- Search history evidence: ![Search History](./Screenshot 2026-06-29 141928.png)
+- Image metadata evidence: ![Image Metadata](./Screenshot 2026-06-29 142333.png)
 
 ## Recommendations & next steps
 1. Preserve the EO1 image files and record hashes for chain-of-custody.
