@@ -2,7 +2,7 @@
 
 ## Overview
 
-Using Autopsy 4.22.1, I was able to analyze the metadata and search history from the available images. The resulting data is direct results of my findings. 
+Using Autopsy 4.22.1, I was able to analyze the metadata and search history from the available images. The following findings are derived from forensic analysis conducted using Autopsy 4.22.1. 
 
 **Images:**
 - ubnist.casper-rw.gen0.EO1 MD5: 761c3476a18a87699b6b9776433d198d
