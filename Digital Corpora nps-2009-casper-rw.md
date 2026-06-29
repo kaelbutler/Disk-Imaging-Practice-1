@@ -11,7 +11,6 @@ Using Autopsy 4.22.1 I examined the provided casper-rw images. This report recor
 | ubnist.casper-rw.gen2.EO1 | eaf3e9d7c06ca14a52d165cd89d1282e |
 | ubnist.casper-rw.gen3.EO1 | 717f6be298748ee7d6ce3e4b9ed63459 |
 
-(Repository note: avoid spaces in file names when adding related files to the repo. Suggested Markdown filename: `Digital-Corpora_nps-2009-casper-rw.md`.)
 
 ## Environment / system
 - Analysis tool: Autopsy 4.22.1
@@ -22,8 +21,6 @@ Using Autopsy 4.22.1 I examined the provided casper-rw images. This report recor
 1. Mounted/ingested EO1 images in Autopsy 4.22.1.
 2. Performed artifact examination using Autopsy features as applicable (keyword/search, browser artifacts, file metadata review).
 
-(If you ran any additional command-line tools or recovery steps, list the exact commands and timestamps here.)
-
 ## Accounts & system artifacts
 - Accounts discovered on the image: Avahi (UID: 110) and Ubuntu (UID: 0).
 - Notable system artifacts to preserve if present:
@@ -32,7 +29,8 @@ Using Autopsy 4.22.1 I examined the provided casper-rw images. This report recor
   - Relevant caches or temporary directories
 
 ## Browsing activity
-- Browsing artifacts were examined. If browser history artifacts are present, export the full list of visited URLs and timestamps for preservation and analysis.
+- Browsing artifacts were examined.
+- User had 281 web bookmarks, 27 web cookies, 59 web downloads, 414 sites browsed, and 8 searches. 
 
 ## Images & EXIF summary
 - Photos were identified during analysis. An EXIF CSV export was not produced as part of this report. If desired, an EXIF export can be generated with the following fields: filename, DateTimeOriginal, Make, Model, GPS (if present), file path, hash.
@@ -40,8 +38,6 @@ Using Autopsy 4.22.1 I examined the provided casper-rw images. This report recor
 ## Evidence (screenshots)
 - Search history evidence: ![Search History](./Screenshot-2026-06-29-141928.png)
 - Image metadata evidence: ![Image Metadata](./Screenshot-2026-06-29-142333.png)
-
-(Recommendation: keep screenshot filenames free of spaces; the files above are referenced using hyphens.)
 
 ## Recommendations & next steps
 1. Preserve the EO1 image files and record hashes for chain-of-custody.
@@ -53,4 +49,4 @@ Using Autopsy 4.22.1 I examined the provided casper-rw images. This report recor
 - Tools used: Autopsy 4.22.1
 - Data exports: list folder paths and filenames of any exported reports and provide their checksums.
 - Change log:
-  - Edited by Kael Butler, 2026-06-29 — removed unconfirmed assertions and ensured image references use filenames without spaces.
+  - Edited by Kael Butler, 2026-06-29 
