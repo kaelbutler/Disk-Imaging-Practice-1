@@ -36,8 +36,10 @@ Using Autopsy 4.22.1 I examined the provided casper-rw images. This report recor
 - Photos were identified during analysis. An EXIF CSV export was not produced as part of this report. If desired, an EXIF export can be generated with the following fields: filename, DateTimeOrigi[...]
 
 ## Evidence (screenshots)
-- Search history evidence: ![Search History](./Screenshot 2026-06-29 141928.png)
-- Image metadata evidence: ![Image Metadata](./Screenshot 2026-06-29 142333.png)
+
+![Search history](./Screenshot%202026-06-29%20141928.png)
+
+![Image metadata](./Screenshot%202026-06-29%20142333.png)
 
 ## Recommendations & next steps
 1. Preserve the EO1 image files and record hashes for chain-of-custody.
